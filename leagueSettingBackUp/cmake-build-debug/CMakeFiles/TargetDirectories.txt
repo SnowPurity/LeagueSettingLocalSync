@@ -1,0 +1,3 @@
+C:/Users/11365/CLionProjects/leagueSettingBackUp/cmake-build-debug/CMakeFiles/leagueSettingBackUp.dir
+C:/Users/11365/CLionProjects/leagueSettingBackUp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11365/CLionProjects/leagueSettingBackUp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

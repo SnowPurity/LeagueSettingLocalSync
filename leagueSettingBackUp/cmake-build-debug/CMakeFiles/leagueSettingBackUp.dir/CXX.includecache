@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/11365/CLionProjects/leagueSettingBackUp/main.cpp
+bits/stdc++.h
+-
+conio.h
+-
+direct.h
+-
+
